@@ -11,6 +11,6 @@ end
 
 array = ["qafusgh","wwrr","eeey","rddd","t","y"]
 
-my_each(array) do |word| puts word 
+my_each(array) do |word| puts word
 
 end
